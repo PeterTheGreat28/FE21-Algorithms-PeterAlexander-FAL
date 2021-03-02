@@ -1,6 +1,6 @@
-<mxfile host="65bd71144e" modified="2021-03-02T13:35:15.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.2 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="qJzShLQRHHhoDblAKlJQ" version="14.2.4" type="embed">
+<mxfile host="65bd71144e" modified="2021-03-02T19:42:48.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.2 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="X5wnGeicjsV62n0ovOGw" version="14.2.4" type="embed">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="1032" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#435443" math="0" shadow="0">
+        <mxGraphModel dx="1102" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#435443" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -92,7 +92,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="9cSjQ4V9_LUC3mXQyiD0-20" value="Give out:&lt;br&gt;R100 x €100&lt;br&gt;R50 x €50&lt;br&gt;R20 x €20&lt;br&gt;R10x€10" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="370" y="1279" width="140" height="80" as="geometry"/>
+                    <mxGeometry x="371" y="1279" width="140" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="9cSjQ4V9_LUC3mXQyiD0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9cSjQ4V9_LUC3mXQyiD0-21" target="9cSjQ4V9_LUC3mXQyiD0-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -125,7 +125,7 @@
                     <mxGeometry x="400" y="840" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="9cSjQ4V9_LUC3mXQyiD0-34" value="" style="group;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-                    <mxGeometry x="380" y="1449" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="381" y="1447" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="9cSjQ4V9_LUC3mXQyiD0-35" value="" style="group;" parent="9cSjQ4V9_LUC3mXQyiD0-34" vertex="1" connectable="0">
                     <mxGeometry width="120" height="40" as="geometry"/>
